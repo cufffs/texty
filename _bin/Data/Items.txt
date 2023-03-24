@@ -1,0 +1,29 @@
+Sword of Victory	1	w
+Greywolf	2	w
+Great Sword	3	w
+Iron Dagger	1	w
+Saw of Scales	2	w
+Long Spear	3	w
+Bloodthirst	2	w
+Luna Spear	3	w
+Great Axe	2	w
+Blue Dragon's Axe	4	w
+Tornado of Soul	4	w
+Cruel Remorse	4	w
+Scepter	1	w
+Anguish	2	w
+Mega Weight	2	w
+Hammer	1	w
+Mace of Hera	4	w
+Deathblow	4	w
+Wooden Bow	2	w
+Ranger Bow	2	w
+Giant Bow	3	w
+Critical Bow	3	w
+ThunderWave	5	w
+Thunder Axe	5	w
+Will of the Gods	5	w
+Doom Summoner	3	w
+Sage's Staff	1	w
+Scaled Armour	5	a
+Super Potion	10	p
